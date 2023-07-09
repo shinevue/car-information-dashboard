@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Installation
 
-### 'npm install'
+### `npm install`
 
 (This is run in only Node 14 )
 
